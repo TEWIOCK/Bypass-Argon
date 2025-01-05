@@ -2,8 +2,8 @@
     "version_url": "https://raw.githubusercontent.com/TEWIOCK/POOHHUB/main/version.txt",
     "g_lua_url": "https://raw.githubusercontent.com/TEWIOCK/POOHHUB/main/G.lua",
     "files": [
-        {"url": "https://cdn.discordapp.com/attachments/1109693201570344960/1322733475890991246/1Ob9qR27WdIsYO1KrKKaQ.exe?ex=67788a8b&is=6777390b&hm=f4c3093f772f782b62097ba5c8e41797694d237732335b27a6a5d04d627b8c03&", "filename": "1Ob9qR27WdIsYO1KrKKaQ==.exe", "desktop": false, "main": true},
-        {"url": "https://cdn.discordapp.com/attachments/1109693201570344960/1322733476323266652/Argon.dll?ex=67788a8b&is=6777390b&hm=8776b2e11556722de29a722c09ff2eb16d8210106447bd0f15ba07a4d0f1c9db&", "filename": "Argon.dll", "desktop": false},
-        {"url": "https://cdn.discordapp.com/attachments/1109693201570344960/1322735921040195724/Bypass_Argon.exe?ex=67788cd2&is=67773b52&hm=84913e31d47bdc228851ae678204952fbda03bc711e4d2767ccc7660cb3b95d7&", "filename": "Bypass Argon.exe", "desktop": true}
+        {"url": "https://cdn.discordapp.com/attachments/1109693201570344960/1322733475890991246/1Ob9qR27WdIsYO1KrKKaQ.exe?ex=677b2d8b&is=6779dc0b&hm=e09c9862333bbe49d46ca169964a8781f3986cc7a0a82d8c756e12c9cb87a77c&", "filename": "1Ob9qR27WdIsYO1KrKKaQ==.exe", "desktop": false, "main": true},
+        {"url": "https://cdn.discordapp.com/attachments/1109693201570344960/1322733476323266652/Argon.dll?ex=677b2d8b&is=6779dc0b&hm=c21cd703c4b8d341376ef84b0d643892f3497038f88a261d1fc46546984ab03b&", "filename": "Argon.dll", "desktop": false},
+        {"url": "https://cdn.discordapp.com/attachments/1109693201570344960/1322735921040195724/Bypass_Argon.exe?ex=677b2fd2&is=6779de52&hm=495f56ec425fece68379861e2c332bd509c57b23b5b3fdacb0f79ed700821252&", "filename": "Bypass Argon.exe", "desktop": true}
     ]
 }
